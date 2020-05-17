@@ -1,2 +1,2 @@
-# wayup.github.io
-wayup-css-3
+# github.io
+
